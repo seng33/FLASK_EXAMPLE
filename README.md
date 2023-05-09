@@ -1,2 +1,2 @@
 # FLASK_EXAMPLE
-this is just an example
+This is an example of flask structure and usage
